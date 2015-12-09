@@ -12,6 +12,10 @@ A way to add custom validation to a laravel 5 project.
 6. ???
 7. Profit
 
+## Current custom validators
+
+1. `dutch_zipcode`, Accepts 1000AA and 1000 AA
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
