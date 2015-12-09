@@ -9,7 +9,8 @@ A way to add custom validation to a laravel 5 project.
 3. Add your custom validation to `app/Providers/ValidationServiceProvider.php`
 4. Translate the errors of your custom validation in `resources/lang/en/validation.php`
 5. Add your new custom rules in your validation (for example `app/Http/Requests/ExampleRequest.php`)
-6. Profit
+6. ???
+7. Profit
 
 ## License
 
